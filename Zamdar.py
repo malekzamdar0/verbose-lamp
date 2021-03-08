@@ -4,7 +4,7 @@ import datetime
 import time
 import requests
 import sys
-os.system("xdg-open https://www.snapchat.com/add/ittz_dyaa")
+os.system("xdg-open https://www.snapchat.com/add/malek_faesal")
 def emil():
     os.system("clear")
     a='''\033[1;36m
